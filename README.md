@@ -3,92 +3,120 @@
 # Mozilla Gecko Based Browsers:
 
 ## [Firefox:](https://mozilla.org/firefox/) 
-Pros: [Open-source](https://github.com/mozilla/), 
+About: The standard Firefox
 
-Cons: Not as widely supported as Chromium, Google set as default SE,
+Pros: [Open-source](https://github.com/mozilla/),
 
-Additional notes:
+Cons: Google set as default SE [(For now)](https://news.itsfoss.com/google-mozilla-firefox-threat/),
+
+Summary: Good non-chromium browser. Recommended if you want a simple Chromium replacement
 
 ## [Librewolf:](https://librewolf.net/)
+About: Firefox with settings changed to maximum privacy and security
+
 Pros: [Open-source](https://gitlab.com/librewolf-community), [Top 5 privacy](https://privacytests.org/)
 
-Cons: Not as widely supported as Chromium, Default settings break some websites, 
+Cons: Default settings break some websites
 
-Additional notes:
+Summary: Very good browser if privacy is your top priority. Recommended for people who want maximum privacy 
 
-[Mullvad Browser:](https://mullvad.net/browser)
-Pros: [Open-Source](https://gitlab.torproject.org/tpo/applications/mullvad-browser/) 
+## [Mullvad Browser:](https://mullvad.net/browser)
+About: [Mullvad is made in collaberation with the Tor browser, and therfore has privacy features that might be extreme to some people](https://mullvad.net/en/browser/hard-facts)
+
+Pros: [Open-Source](https://gitlab.torproject.org/tpo/applications/mullvad-browser/), [Top 5 privacy](https://privacytests.org/) https://mullvad.net/browser/hard-facts, new identity
 
 Cons: 
 
-Additional notes: 
+Summary: [They have their own search engine,  which seems to be pretty good,](https://mullvad.net/blog/introducing-mullvad-leta-a-search-engine-used-in-the-mullvad-browser) but it only works if you pay for [their vpn](https://mullvad.net/vpn)
 
-## Tor Browser: 
-Pros: [Open-Source](https://gitlab.torproject.org/tpo/core/tor/) [Top 5 privacy](https://privacytests.org/), 
+## [Tor Browser:](https://www.torproject.org/)
+About: Uses The Onion Router (TOR) network for maximum security and gives you access to the darknet
+
+Pros: [Open-Source](https://gitlab.torproject.org/tpo/core/tor/) [Top 5 privacy](https://privacytests.org/), tor network built-in, new identity
 
 Cons: Very slow
 
-Additional notes:
+Summary: Only tested while being connected to the onion network, as that's how most people will use it. Not recommended for daily use
 
-## Zen Browser: Based on Firefox 
-Pros: Open-source, Browser mods, Optional vertical tabs
+## [Zen Browser:](https://zen-browser.app/)
+About: 
 
-Cons: Not as widely supported as Chromium, 
+Pros: [Open-source](https://github.com/zen-browser/desktop), [Browser mods](https://zen-browser.app/mods/), Optional vertical tabs, [Many other features](https://zen-browser.app/#Features), Workspaces
 
-Additional notes:
+Cons: Beta software
+
+Summary: 
 
 # Google Chromium Based Browsers:
 
-## Chromium:
-Pros: 
+## [Chromium:](https://www.chromium.org/)
+About: Google free Chromium
+
+Pros: [Open-source](https://github.com/chromium/chromium)
 
 Cons: 
 
-Additional notes:
+Summary: Pretty good browser if you just want to DeGoogle. Recommended for an easy Chrome replacement
 
-## Cromite
-Pros: [Open-Source](https://github.com/uazo/cromite)
+## [Brave:](https://brave.com/) 
+About: Browser with built-in adblock and Crypto wallet
 
-Cons:
+Pros: [Open-source](https://github.com/brave/brave-browser), [Top 5 privacy](https://privacytests.org/)  [Adblocker](https://brave.com/learn/category/ad-blocker/)
 
-Additional notes:
+Cons: [Crypto and NFTs](https://brave.com/wallet/), [Morally dubious](https://en.wikipedia.org/wiki/Brave_(web_browser)#Controversies)
 
-## Brave: 
-Pros: [Open-source](https://github.com/brave/brave-browser), [Top 5 privacy](https://privacytests.org/)
+Summary: Seems like a really good browser, but I would be cautious to trust it with all controversies. I would recommend using another browser and add an adblocker
 
-Cons: 
+## [DuckDuckGo Browser:](https://duckduckgo.com/)
+About: Browser with built-in tracking protection
 
-Additional notes:
+Pros: [Top 5 privacy](https://privacytests.org/), [Tracking protection](https://duckduckgo.com/duckduckgo-help-pages/privacy/web-tracking-protections/), helpful, simple and non-intrusive setup, new identity
 
-## Vivaldi: 
-Pros: 
+Cons: [Only semi-open source](https://github.com/duckduckgo), [(Used to) share data to Microsoft](https://www.pcmag.com/news/duckduckgos-browser-wont-block-microsofts-trackers)
 
-Cons: Closed-Source, [Unique user ID](https://vivaldi.com/privacy/browser/), Sponsors and ads on frontpage
+Summary: 
 
-## Arc Browser: 
+## [Vivaldi:](https://vivaldi.com/) 
+About: Very customizable browser with a lot of organizing features
+
+Pros: Very customizable, Lot of features for organizing, easy access tools on the left
+
+Cons: Proprietary, [Unique user ID](https://vivaldi.com/privacy/browser/), Sponsors and ads on frontpage
+
+Summary: Very powerful browser with a lot of features, less privacy than some alternatives. Recommed if you want a really good browser, but privacy isn't a top priority
+
+## [Arc Browser:]() 
+About: Just seems like a worse, proprietary version of Zen browser
+
 Pros: Customization
 
-Cons: Closed-Source, AI, Account required, 
+Cons: Proprietary, Account required
 
-Additional notes:
+Summary: Tries way too hard with "AI" stuff, and has an account requirement, instant no for me. Not recommended
 
-## Opera (gx): 
+## [Opera GX:](https://www.opera.com/gx) 
+About: Most of this also applies to Opera non-GX 
+
 Pros: Very Customizable, Browser modding, Built-in action sounds, Optional SoMe integrations, Optional Resource-Limiter, Optional Ad-Blocker, Optional File Cleaner 
 
-Cons: Closed-Source, Excessive telemetry, Bloated, "Gamer aesthetic", Hides that its Chinese, Sponsors and ads on frontpage, Google set as default SE,
+Cons: Proprietary, Excessive telemetry, Google set as default SE, Bloated, "Gamer aesthetic", Tries to hide Chinese ownership, Sponsors and ads on frontpage, Google set as default SE, Defaults to opening at startup
 
-Additional notes:
+Summary: Opera (GX) is very intrusive and dishonst. I would NOT recommend this browser to anyone, if you want a "gamer" browser use Vivaldi
 
-## Google Chrome: 
-Pros: 
+## [Google Chrome:](https://www.google.com/chrome/)
+About: The Google-Browser™
 
-Cons: Closed-Source, Excessive telemetry, Google set as default SE,
+Pros: Universally supported, 
 
-Additional notes:
+Cons: Proprietary, Excessive telemetry, Google set as default SE, [Adblocking is less effective](https://www.adblockninja.com/blog/manifest-v3-explained-ad-blocking-2025)
 
-## Microsoft Edge: 
-Pros: Profiles, Optional vertical tabs,  
+Summary: Chrome is intrusive and blocks use of some extensions. I wouldn't recommend it for anyone
 
-Cons: Closed-Source, Excessive telemetry, Annoying pop-ups at setup, Sponsors and ads on frontpage, Bing set as default SE,
+## [Microsoft Edge:](https://www.microsoft.com/edge/)
+About: Windows-fied Chromium
 
-Additional notes:
+Pros: Optional vertical tabs, Intergrated Copilot might be a plus to some
+
+Cons: Proprietary, Excessive telemetry, Intrusive pop-up at setup, Sponsors and ads on frontpage, Bing set as default SE
+
+Summary: Edge is boring and intrusive, a bit better than Chrome, but I wouldn't recommend it for anyone
