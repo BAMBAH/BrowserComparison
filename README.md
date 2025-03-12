@@ -77,11 +77,11 @@ Cons: [Only semi-open source](https://github.com/duckduckgo), [(Used to) share d
 Summary: 
 
 ## [Vivaldi:](https://vivaldi.com/) 
-About: Very customizable browser with a lot of organizing features
+About: Extremely customizable browser with a lot of organizing features
 
-Pros: Very customizable, Lot of features for organizing, easy access tools on the left
+Pros: Extremely customizable, Lot of features for organizing, easy access tools on the left
 
-Cons: Proprietary, [Unique user ID](https://vivaldi.com/privacy/browser/), Sponsors and ads on frontpage
+Cons: Semi-open source, [Unique user ID](https://vivaldi.com/privacy/browser/), Sponsors and ads on frontpage
 
 Summary: Very powerful browser with a lot of features, less privacy than some alternatives. Recommed if you want a really good browser, but privacy isn't a top priority
 
